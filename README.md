@@ -72,27 +72,27 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 # Screenshots # 
-<img src="1.png"></img>
-<img src="2.png"></img>
-<img src="3.png"></img>
-<img src="4.png"></img>
-<img src="5.png"></img>
-<img src="6.png"></img>
-<img src="7.png"></img>
-<img src="8.png"></img>
-<img src="9.png"></img>
-<img src="10.png"></img>
-<img src="11.png"></img>
-<img src="12.png"></img>
-<img src="13.png"></img>
-<img src="14.png"></img>
-<img src="15.png"></img>
-<img src="16.png"></img>
-<img src="17.png"></img>
-<img src="18.png"></img>
-<img src="19.png"></img>
-<img src="20.png"></img>
-<img src="21.png"></img>
-<img src="22.png"></img>
-<img src="23.png"></img>
-<img src="24.png"></img>
+<img src="Screenshots/1.JPG" width="434" height="450"></img>
+<img src="Screenshots/2.JPG" width="434" height="450"></img>
+<img src="Screenshots/3.JPG" width="434" height="450"></img>
+<img src="Screenshots/4.JPG" width="434" height="450"></img>
+<img src="Screenshots/5.JPG" width="434" height="450"></img>
+<img src="Screenshots/6.JPG" width="434" height="450"></img>
+<img src="Screenshots/7.JPG" width="434" height="450"></img>
+<img src="Screenshots/8.JPG" width="434" height="450"></img>
+<img src="Screenshots/9.JPG" width="434" height="450"></img>
+<img src="Screenshots/10.JPG" width="434" height="450"></img>
+<img src="Screenshots/11.JPG" width="434" height="450"></img>
+<img src="Screenshots/12.JPG" width="434" height="450"></img>
+<img src="Screenshots/13.JPG" width="434" height="450"></img>
+<img src="Screenshots/14.JPG" width="434" height="450"></img>
+<img src="Screenshots/15.JPG" width="434" height="450"></img>
+<img src="Screenshots/16.JPG" width="434" height="450"></img>
+<img src="Screenshots/17.JPG" width="434" height="450"></img>
+<img src="Screenshots/18.JPG" width="434" height="450"></img>
+<img src="Screenshots/19.JPG" width="434" height="450"></img>
+<img src="Screenshots/20.JPG" width="434" height="450"></img>
+<img src="Screenshots/21.JPG" width="434" height="450"></img>
+<img src="Screenshots/22.JPG" width="434" height="450"></img>
+<img src="Screenshots/23.JPG" width="434" height="450"></img>
+<img src="Screenshots/24.JPG" width="434" height="450"></img>
